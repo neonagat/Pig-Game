@@ -1,4 +1,4 @@
-# Pig-Game
+# pig-game
 
 https://neonagat.github.io/Pig-Game/
 
